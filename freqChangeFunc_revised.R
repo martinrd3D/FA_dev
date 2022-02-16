@@ -1,4 +1,5 @@
-# by Daniel Xia, dansummer94@gmail.com
+#20220216, Casey Li
+# for issue #80&81
 
 library(xts)
 library(PerformanceAnalytics)
